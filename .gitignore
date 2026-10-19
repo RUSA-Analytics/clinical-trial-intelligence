@@ -1,0 +1,13 @@
+*.pbix
+*.pbit
+*.mp4
+*.mov
+*.avi
+*.xlsx
+*.xls
+*.csv
+*.parquet
+*.zip
+.env
+.env.*
+.DS_Store
