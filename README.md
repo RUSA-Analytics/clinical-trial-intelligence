@@ -1,39 +1,22 @@
-# Clinical Trial Intelligence | Power BI Analytics
+# Clinical Trial Intelligence — RUSA Analytics
 
-**RUSA Analytics · Healthcare Analytics Portfolio**
+Healthcare analytics portfolio built with Microsoft Power BI and synthetic clinical-trial data.
 
-A portfolio overview of a Power BI project for exploring clinical-trial information using **synthetic data**. This repository is intended to showcase approved static screenshots and a concise project overview. It does **not** host a dashboard demo.
+## Dashboard views
 
-## Project overview
+1. Clinical Trial Portfolio Overview
+2. Enrollment & Site Performance
+3. Patient Safety Intelligence
+4. Operations & Data Quality
 
-The project explores how interactive business intelligence reporting can support the analysis and communication of clinical-trial information. The internal project includes a Power BI report and a synthetic Excel source dataset.
+Each dashboard includes the RUSA Analytics identity. The report demonstrates portfolio management, recruitment monitoring, patient-safety oversight and operational quality review.
 
-## Technology
+## Gallery
 
-- Microsoft Power BI
-- Microsoft Excel (synthetic source data)
+Four actual screenshots have been prepared in the internal healthcare portfolio. GitHub image uploads are still pending.
 
-## Dashboard screenshots
+## Publication policy
 
-Approved, redacted screenshots will be added to [`screenshots/`](screenshots/) after visual and disclosure review.
+Synthetic demonstration only. No live demo, video, PBIX file or source data is included here. No real-world clinical or operational outcomes are claimed.
 
-## Case study
-
-**Business context:** Clinical-trial stakeholders can benefit from consolidated, understandable reporting to review trial information.
-
-**Approach:** A Power BI report built from a synthetic dataset. Specific dashboard metrics, filters, page structure, calculations, and outputs are pending validation before publication.
-
-**Outcome:** An internal analytics demonstration, not a verified live clinical deployment. No specific ROI, performance improvement, or clinical outcome is claimed.
-
-## Data and publication policy
-
-All data referenced in the project is described as synthetic. This public repository deliberately excludes:
-
-- Demo or walkthrough videos, recordings, or demo links
-- Power BI `.pbix` files
-- Source spreadsheets and datasets
-- Patient or client records, secrets, and private materials
-
-**Owner:** RUSA Analytics
-
-**Status:** Public documentation draft; screenshots and feature verification pending.
+RUSA Analytics | [Organization](https://github.com/RUSA-Analytics)
