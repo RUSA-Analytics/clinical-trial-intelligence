@@ -1,22 +1,38 @@
-# Clinical Trial Intelligence — RUSA Analytics
+# Clinical Trial Intelligence | RUSA Analytics
 
-Healthcare analytics portfolio built with Microsoft Power BI and synthetic clinical-trial data.
+**Healthcare analytics portfolio • Microsoft Power BI • Synthetic demonstration data**
 
-## Dashboard views
+A four-page Power BI showcase for clinical trial portfolio monitoring, site recruitment, safety signals, and operational data quality. These are actual screenshots from the RUSA Analytics dashboard.
 
-1. Clinical Trial Portfolio Overview
-2. Enrollment & Site Performance
-3. Patient Safety Intelligence
-4. Operations & Data Quality
+## Dashboard gallery
 
-Each dashboard includes the RUSA Analytics identity. The report demonstrates portfolio management, recruitment monitoring, patient-safety oversight and operational quality review.
+### Clinical Trial Portfolio Overview
+![Clinical Trial Portfolio Overview](screenshots/01_clinical_trial_portfolio_overview.png)
 
-## Gallery
+### Enrollment & Site Performance
+![Enrollment & Site Performance](screenshots/02_enrollment_and_site_performance.png)
 
-Four actual screenshots have been prepared in the internal healthcare portfolio. GitHub image uploads are still pending.
+### Patient Safety Intelligence
+![Patient Safety Intelligence](screenshots/03_patient_safety_intelligence.png)
+
+### Operations & Data Quality
+![Operations & Data Quality](screenshots/04_operations_and_data_quality.png)
+
+## Business use cases
+
+- Cross-study portfolio monitoring and management attention areas
+- Enrollment pace, recruitment funnel and site ranking
+- Adverse event trends and safety review queues
+- Protocol deviations, CAPA and quality monitoring
+
+## Technology
+
+Power BI and a synthetic Excel data source; filtering by study, indication, site, and period.
 
 ## Publication policy
 
-Synthetic demonstration only. No live demo, video, PBIX file or source data is included here. No real-world clinical or operational outcomes are claimed.
+**Synthetic data only.** Figures are illustrative and do not represent real patient outcomes, clinical findings, or validated client deployments. Some KPI definitions require further review before externally interpreting dashboard results.
 
-RUSA Analytics | [Organization](https://github.com/RUSA-Analytics)
+**No demo videos, live demo links, PBIX files, or source datasets are published.**
+
+**RUSA Analytics** | [GitHub organization](https://github.com/RUSA-Analytics)
