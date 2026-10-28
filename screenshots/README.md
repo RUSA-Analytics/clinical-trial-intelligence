@@ -1,7 +1,8 @@
 # Dashboard screenshots
 
-Only approved, disclosure-reviewed static screenshots belong here.
+1. `01_clinical_trial_portfolio_overview.png`: Clinical Trial Portfolio Overview
+2. `02_enrollment_and_site_performance.png`: Enrollment & Site Performance
+3. `03_patient_safety_intelligence.png`: Patient Safety Intelligence
+4. `04_operations_and_data_quality.png`: Operations & Data Quality
 
-Suggested exports: dashboard overview, trial status and phase analysis, enrollment or location analysis (only where those views actually exist). Verify against the PBIX before naming or describing each image.
-
-Do not commit synthetic source spreadsheets, videos, live demo links, or the Power BI project file.
+All figures come from synthetic demonstration data.

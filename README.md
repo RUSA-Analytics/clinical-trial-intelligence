@@ -31,8 +31,8 @@ Power BI and a synthetic Excel data source; filtering by study, indication, site
 
 ## Publication policy
 
-**Synthetic data only.** Figures are illustrative and do not represent real patient outcomes, clinical findings, or validated client deployments. Some KPI definitions require further review before externally interpreting dashboard results.
+**Synthetic data only.** Figures are illustrative and do not represent real patient outcomes, clinical findings, or validated client deployments. Figures are illustrative and have not been validated as clinical or business results.
 
-**No demo videos, live demo links, PBIX files, or source datasets are published.**
+The Power BI file (.pbix) and source data are not published in this repository.
 
 **RUSA Analytics** | [GitHub organization](https://github.com/RUSA-Analytics)
